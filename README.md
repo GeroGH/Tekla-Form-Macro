@@ -1,4 +1,4 @@
-TeklaFormMacro
+Tekla Form Macro
 ==============
 
 This is a Template for creating macros in Visual Studio for use in Tekla Structures.
